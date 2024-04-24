@@ -1,0 +1,218 @@
+body{
+    background-color: rgb(240, 230, 218);
+}
+
+.salsicha{
+    width: 500px;
+    display: block;
+    margin: 0 auto;
+}
+
+.botão{
+    display: inline-block;
+    margin: 20px;
+    margin-top: 29px;
+    border-radius: 20px;
+    background-color: transparent; 
+    padding: 10px 20px; 
+    color: #000;
+    font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+
+
+}
+
+.botão:hover{
+    color: white;
+    border-color: white;
+
+}
+
+.goodfordog{
+    position: absolute;
+    left: 10%; 
+    transform: translateX(-100%); 
+    top: 50%;
+    transform: translateY(-420%);
+    width: 110px;
+    
+}
+
+.TITU{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+    font-family: "Rubik", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+
+}
+
+.ABAIXO{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    font-family: "Rubik", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.motivos{
+    margin-bottom: 10px;
+
+}
+
+.leituratemp{
+    font-size: 14px;
+    color: #474444;
+    
+}
+
+header {
+    background-color: #9cd0f3; 
+    color: #fff; 
+    border-radius: 15px;
+    width: 1500px;
+    height: 100px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0; 
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 40px;
+    margin-right: 40px;
+    font-family: "Rubik", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.intro{
+    padding-top: 20px;
+}
+
+h3{
+    margin-left: 40px;
+    font-size: 25px;
+    font-family: "Sora", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+  
+  
+
+
+h4{
+    margin-left: 40px;
+    margin-right: 40px;
+    font-size: 19px;
+    font-family: "Hind", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+
+
+main{
+    background-color: white;
+    border-radius: 15px ;
+    padding: px;
+    width: 1500px; 
+    height: 2500px;
+    margin: 0 auto;
+}
+
+.youtube{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.gatos{
+    margin-top: 100px;
+}
+
+footer{
+    background-color: aqua;
+    background-color: #9cd0f3; 
+    color: #fff; 
+    border-radius: 15px;
+    width: 1500px;
+    margin: 0 auto;
+}
+
+.container{
+    position: relative;
+        text-align: center; 
+        height: 100px;
+}
+
+.ADOTE{
+    position: absolute;
+        left: 45%; 
+        transform: translateX(-10%); 
+        top: 50%;
+        transform: translateY(-100%);
+    color: #474444;
+    text-decoration: none;
+    display: inline-block;
+    margin: 0 auto;
+    border: 3px solid black; 
+    border-radius: 20px;
+    padding: 10px 20px; 
+    font-size: 15px;
+    font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+
+    
+}
+
+
+.ADOTE:hover{
+    color:aliceblue;
+    border-color: aliceblue;
+}
+
+
+
+
+.INSTA{
+    display: inline-block;
+    width: 150px;
+}
+
+.INSTA img{
+    width: 150px;
+    position: absolute;
+        left: 0;
+        top: 30%; 
+        transform: translateY(-50%);
+        margin-right: 10px; 
+    
+}
+
+.FACEBOOK img{
+    width: 50px;
+    position: absolute;
+        left: 120px;
+        top: 30%; 
+        transform: translateY(-50%);
+        margin-right: 10px; 
+
+}
+
